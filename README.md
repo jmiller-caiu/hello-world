@@ -1,3 +1,3 @@
 # hello-world
 Initial GitHub repository
-Readme information
+Readme information for class
